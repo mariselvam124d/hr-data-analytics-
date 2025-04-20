@@ -7,6 +7,7 @@ HR DataView is a modern, data-driven dashboard built for visualizing and analyzi
 ## 📊 Dashboard Overview
 
 This interactive dashboard gives a consolidated view of HR data across multiple dimensions:
+![image](https://github.com/user-attachments/assets/8ebca66c-853a-45d6-b2a8-e844879c3dd0)
 
 - ✅ Total Employees Overview
 - 👩‍💼 Gender Distribution (Male vs Female)
